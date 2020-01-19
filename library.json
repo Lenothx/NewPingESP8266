@@ -5,15 +5,11 @@
     "repository":
   {
     "type": "git",
-    "url": "https://www.github.com/jsahw/NewPingESP8266.git"
+    "url": "https://www.github.com/jshaw/NewPingESP8266.git"
   },
     "authors":
     {
         "name": "jshaw",
-        "url": "https://www.github.com/jsahw/NewPingESP8266"
+        "url": "https://www.github.com/jshaw/NewPingESP8266"
     },
-    "version": "1",
-    },
-    "frameworks": "arduino",
-    "platforms": "atmelavr"
 }
