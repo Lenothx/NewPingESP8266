@@ -1,15 +1,22 @@
 {
     "name": "NewPingESP8266",
-    "keywords": ", ESP8266",
+	"version": "1.9.11",
+    "keywords": ["ESP8266"],
     "description": "NewPing port for ESP8266, now forked for PlatformIO",
     "repository":
   {
     "type": "git",
-    "url": "https://www.github.com/jshaw/NewPingESP8266.git"
+    "url": "https://www.github.com/lenothx/NewPingESP8266.git"
   },
     "authors":
     {
         "name": "jshaw",
-        "url": "https://www.github.com/jshaw/NewPingESP8266"
+        "url": "https://www.github.com/lenothx/NewPingESP8266"
     },
+    "frameworks": [
+        "arduino"
+    ], 
+    "platforms": [
+        "atmelavr"
+    ], 
 }
